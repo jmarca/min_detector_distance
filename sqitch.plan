@@ -2,4 +2,4 @@
 %project=min_detector_distance
 %uri=https://github.com/jmarca/min_detector_distance
 
-min_dist [detector_lines:detector_lines numbered_route_lines:nrl canonical_direction:canonical_direction] 2016-04-15T15:37:37Z James E. Marca <james@activimetrics.com> # minimum distance between lines and detectors
+min_dist [tdetector:tdetector detector_lines:detector_lines numbered_route_lines:nrl canonical_direction:canonical_direction] 2016-04-15T15:37:37Z James E. Marca <james@activimetrics.com> # minimum distance between lines and detectors

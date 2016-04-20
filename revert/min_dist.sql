@@ -2,6 +2,6 @@
 
 BEGIN;
 
--- XXX Add DDLs here.
+DROP TABLE tempseg.min_detector__distance;
 
 COMMIT;
