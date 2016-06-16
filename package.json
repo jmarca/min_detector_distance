@@ -1,0 +1,22 @@
+{
+  "name": "min_detector_distance",
+  "version": "1.0.0",
+  "description": "Minimum detector distance to a line",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "tap"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmarca/min_detector_distance.git"
+  },
+  "author": "James E. Marca",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/jmarca/min_detector_distance/issues"
+  },
+  "homepage": "https://github.com/jmarca/min_detector_distance#readme"
+}
