@@ -21,6 +21,7 @@
   "homepage": "https://github.com/jmarca/min_detector_distance#readme",
   "dependencies": {
     "detector_lines": "github:jmarca/detector_lines",
+    "numbered_route_lines": "github:jmarca/numbered_route_lines",
     "tdetector": "github:jmarca/tdetector"
   }
 }
